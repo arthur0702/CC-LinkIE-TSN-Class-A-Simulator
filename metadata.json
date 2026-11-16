@@ -1,0 +1,6 @@
+{
+  "name": "CC-Link IE TSN Class A Simulator & CSP+ Analyzer",
+  "description": "CC-Link IE TSN Class A Remote Station simulator specification, CSP+ XML parser, memory map viewer, and Python simulation workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
